@@ -1,5 +1,5 @@
-[0m[[0mdebug[0m] [0mRunning TaskDef(kmeans.KMeansSuite, org.scalatest.tools.Framework$$anon$1@88742f6, false, [SuiteSelector])[0m
-[0m[[0minfo[0m] [0m[36mRun completed in 100 milliseconds.[0m[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(kmeans.KMeansSuite, org.scalatest.tools.Framework$$anon$1@706585d1, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 107 milliseconds.[0m[0m
 [0m[[0minfo[0m] [0m[36mTotal number of tests run: 5[0m[0m
 [0m[[0minfo[0m] [0m[36mSuites: completed 1, aborted 0[0m[0m
 [0m[[0minfo[0m] [0m[36mTests: succeeded 5, failed 0, canceled 0, ignored 0, pending 0[0m[0m

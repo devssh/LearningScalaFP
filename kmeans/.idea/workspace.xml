@@ -2,117 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27e361c5-a801-4e9b-a4cf-acd9225bc02a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_7_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_7_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/parprog1-kmeans.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/parprog1-kmeans.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/root-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/root-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$4a10c6b9f7cefed8a734$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$4a10c6b9f7cefed8a734$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$4a10c6b9f7cefed8a734.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$4a10c6b9f7cefed8a734.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$9d88247d33333b8ad2de$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$9d88247d33333b8ad2de$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$9d88247d33333b8ad2de.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$9d88247d33333b8ad2de.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$a41596e5773e13e91b27$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$a41596e5773e13e91b27.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$a41596e5773e13e91b27.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$af1b726e4de22c516a90$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$af1b726e4de22c516a90.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$af1b726e4de22c516a90.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$b99e03757b2e354466f1$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$b99e03757b2e354466f1.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$b99e03757b2e354466f1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$d6238b8e2b8526cedeaa$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$d6238b8e2b8526cedeaa$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$d6238b8e2b8526cedeaa.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$d6238b8e2b8526cedeaa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$f873ccae7e3e01e10796$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$f873ccae7e3e01e10796$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$f873ccae7e3e01e10796.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$f873ccae7e3e01e10796.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0519bc1d2858a77b53bf$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0519bc1d2858a77b53bf$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0519bc1d2858a77b53bf.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0519bc1d2858a77b53bf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$259191b89d254c7e72b3$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$259191b89d254c7e72b3$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$259191b89d254c7e72b3.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$259191b89d254c7e72b3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2d50836c6474df1b3b18$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2d50836c6474df1b3b18$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2d50836c6474df1b3b18.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2d50836c6474df1b3b18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3c132b926527f40e83ef$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3c132b926527f40e83ef$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3c132b926527f40e83ef.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3c132b926527f40e83ef.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$59ee08472fb52cdf883e$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$59ee08472fb52cdf883e$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$59ee08472fb52cdf883e.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$59ee08472fb52cdf883e.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$65dbc174a6f0ec983552$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$65dbc174a6f0ec983552$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$65dbc174a6f0ec983552.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$65dbc174a6f0ec983552.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$91000b3cbbe13918d4dd$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$91000b3cbbe13918d4dd$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$91000b3cbbe13918d4dd$$anonfun$$sbtdef$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$91000b3cbbe13918d4dd$$anonfun$$sbtdef$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$91000b3cbbe13918d4dd$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$91000b3cbbe13918d4dd.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$91000b3cbbe13918d4dd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a5148a225cd1dcfe6aaf$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a5148a225cd1dcfe6aaf$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a5148a225cd1dcfe6aaf.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a5148a225cd1dcfe6aaf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c809de44cc37671c39ee$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c809de44cc37671c39ee$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c809de44cc37671c39ee.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c809de44cc37671c39ee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f3e139b458040a1360a9$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f3e139b458040a1360a9$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f3e139b458040a1360a9.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f3e139b458040a1360a9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f53c55b4a30e9fbc9b27$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f53c55b4a30e9fbc9b27$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f53c55b4a30e9fbc9b27.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f53c55b4a30e9fbc9b27.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/kmeans-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/kmeans-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/kmeans-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/kmeans-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-docs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-sources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/kmeans/fun/IndexedColors.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/kmeans/fun/IndexedColors.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/kmeans/epfl-view.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/kmeans/epfl-view.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/kmeans/fun/IndexedColorFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/kmeans/fun/IndexedColorFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/kmeans/KMeans.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/kmeans/KMeans.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/kmeans/KMeansSuite.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/kmeans/KMeansSuite.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -138,42 +30,36 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="scala" value="2" />
+          <entry key="scala" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Scala" value="2" />
+          <entry key="Scala" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="scala" value="24" />
+          <entry key="scala" value="176" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Scala" value="24" />
+          <entry key="Scala" value="176" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/kmeans/fun/ScalaShop.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/kmeans/fun/IndexedColors.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/kmeans/KMeans.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+            <state relative-caret-position="291">
+              <caret line="66" column="97" selection-start-line="66" selection-start-column="97" selection-end-line="66" selection-end-column="97" />
             </state>
           </provider>
         </entry>
@@ -188,6 +74,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/scala/kmeans/fun/ScalaShop.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/kmeans/fun/IndexedColors.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/kmeans/KMeans.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/kmeans/KMeansSuite.scala" />
       </list>
     </option>
   </component>
@@ -232,6 +120,13 @@
               <item name="kmeans" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kmeans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kmeans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -251,6 +146,27 @@
               <item name="kmeans" type="462c0819:PsiDirectoryNode" />
               <item name="fun" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="kmeans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kmeans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kmeans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kmeans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kmeans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kmeans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="kmeans" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -261,7 +177,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535137492581" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535139783855" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.sbt" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -351,12 +267,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535137187436</updated>
-      <workItem from="1535137189099" duration="281000" />
+      <workItem from="1535137189099" duration="1965000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="281000" />
+    <option name="totallyTimeSpent" value="1965000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -367,7 +283,7 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="FindBugs-IDEA" />
       <window_info anchor="bottom" id="Build" weight="0.32920793" />
@@ -381,7 +297,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32920793" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32920793" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -407,6 +323,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/kmeans/fun/IndexedColors.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/kmeans/fun/ScalaShop.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -414,10 +337,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/kmeans/fun/IndexedColors.scala">
+    <entry file="jar://$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7-sources.jar!/scala/annotation/tailrec.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+        <state relative-caret-position="180">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/kmeans/KMeansSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="75" column="3" selection-start-line="75" selection-start-column="3" selection-end-line="75" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/kmeans/KMeans.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="66" column="97" selection-start-line="66" selection-start-column="97" selection-end-line="66" selection-end-column="97" />
         </state>
       </provider>
     </entry>

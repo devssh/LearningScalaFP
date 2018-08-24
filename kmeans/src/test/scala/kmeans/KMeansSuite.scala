@@ -18,6 +18,10 @@ class KMeansSuite extends FunSuite {
     assert(classify(points, means) == expected,
       s"classify($points, $means) should equal to $expected")
   }
+  def checkKmeans(points: GenSeq[Point], means: GenSeq[Point], eta: Double, expected: GenSeq[Point]) {
+    assert(kMeans(points, means, eta) == expected,
+      s"classify($points, $means) should equal to $expected")
+  }
 
   test("'classify should work for empty 'points' and empty 'means'") {
     val points: GenSeq[Point] = IndexedSeq()
@@ -70,7 +74,6 @@ class KMeansSuite extends FunSuite {
     val expected = GenMap[Point,GenSeq[Point]]()
     checkParClassify(points, means, expected)
   }
-
 }
 
 
