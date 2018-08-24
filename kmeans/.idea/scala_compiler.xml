@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="SBT 1" modules="root,parprog1-kmeans">
+    <profile name="sbt 1" modules="kmeans_4766" />
+    <profile name="sbt 2" modules="parprog1-kmeans">
       <option name="deprecationWarnings" value="true" />
     </profile>
   </component>

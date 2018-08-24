@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mUpdating {file:/Users/devssh/Downloads/kmeans/project/}kmeans-build...[0m
+[0m[[0minfo[0m] [0mUpdating {file:/Users/devssh/Downloads/scala/kmeans/project/}kmeans-build...[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: default#kmeans-build;0.1-SNAPSHOT[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -11457,19 +11457,19 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.7!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 2022ms :: artifacts dl 42ms[0m
-[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT compile produced in /Users/devssh/Downloads/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-compile.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT runtime produced in /Users/devssh/Downloads/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-runtime.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT test produced in /Users/devssh/Downloads/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-test.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT provided produced in /Users/devssh/Downloads/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-provided.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT optional produced in /Users/devssh/Downloads/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-optional.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT compile-internal produced in /Users/devssh/Downloads/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-compile-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT runtime-internal produced in /Users/devssh/Downloads/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-runtime-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT test-internal produced in /Users/devssh/Downloads/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-test-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT plugin produced in /Users/devssh/Downloads/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-plugin.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT sources produced in /Users/devssh/Downloads/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-sources.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT docs produced in /Users/devssh/Downloads/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-docs.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT pom produced in /Users/devssh/Downloads/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-pom.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT scala-tool produced in /Users/devssh/Downloads/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (2022ms resolve - 42ms download)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 1713ms :: artifacts dl 30ms[0m
+[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT compile produced in /Users/devssh/Downloads/scala/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT runtime produced in /Users/devssh/Downloads/scala/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT test produced in /Users/devssh/Downloads/scala/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT provided produced in /Users/devssh/Downloads/scala/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT optional produced in /Users/devssh/Downloads/scala/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT compile-internal produced in /Users/devssh/Downloads/scala/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT runtime-internal produced in /Users/devssh/Downloads/scala/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT test-internal produced in /Users/devssh/Downloads/scala/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT plugin produced in /Users/devssh/Downloads/scala/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT sources produced in /Users/devssh/Downloads/scala/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT docs produced in /Users/devssh/Downloads/scala/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT pom produced in /Users/devssh/Downloads/scala/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#kmeans-build;0.1-SNAPSHOT scala-tool produced in /Users/devssh/Downloads/scala/kmeans/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kmeans-build-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (1713ms resolve - 30ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
