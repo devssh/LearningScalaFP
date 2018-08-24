@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m+ Heap.gen1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.check if minimum really works: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.check if minimum really works 2: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.check empty: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.check length of modified heap tail: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.heap contains inserted value: OK, passed 100 tests.[0m
