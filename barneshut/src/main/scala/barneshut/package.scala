@@ -89,14 +89,16 @@ package object barneshut {
     val total: Int = bodies.length
 
     def insert(b: Body): Quad = {
-      if (size > minimumSize) {
-        val empty = Empty(centerX, centerY, 0)
-        val quad = Fork(empty, empty, empty, empty)
-        (bodies ++ Seq(b)).foldLeft(quad)((acc: Fork, elem: Body) => acc.insert(elem))
-      }
+      val new_bodies = bodies :+ b
+      if (size <= minimumSize)
+        Leaf(centerX, centerY, size, new_bodies)
       else {
-        val newSize = math.max(size, distance(b.x, b.y, centerX, centerY) * 2)
-        Leaf(centerX, centerY, size, bodies ++ Seq(b))
+        val (new_l_x, new_h_x, new_l_y, new_h_y) = (centerX - size / 4, centerX + size / 4, centerY - size / 4, centerY + size / 4)
+        val n_nw = Empty(new_l_x, new_l_y, size / 2)
+        val n_sw = Empty(new_l_x, new_h_y, size / 2)
+        val n_ne = Empty(new_h_x, new_l_y, size / 2)
+        val n_se = Empty(new_h_x, new_h_y, size / 2)
+        new_bodies.foldLeft(Fork(n_nw, n_ne, n_sw, n_se))(_.insert(_))
       }
     }
   }
